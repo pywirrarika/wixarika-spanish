@@ -1,5 +1,6 @@
-# wixarika-spanish
-Wixarika-Spanish parallel corpus
+# Wixarika-Spanish parallel corpus
+
+## Licence
 
 The corpus is a translation form many Grimm and Anderssen stories in Public Domain to Spanish. This work was donde by Dionio Carrillo Gonzáles (dionico94 [-at-] gmail . com) in 2016. This files are licensed by Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
